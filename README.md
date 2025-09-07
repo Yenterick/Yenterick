@@ -3,10 +3,8 @@
 </p>
 
 <p align="center">
-
 I'm a technology, hardware, and software development enthusiast, currently a fourth-semester Systems Engineering student aiming to become a <b>Full-Stack Developer</b>.  
 I'm confident and reliable, and I strive to improve my skills daily. 🚀
-
 </p>
 
 ## 🛠️ Tech Stack  
@@ -36,10 +34,9 @@ I'm confident and reliable, and I strive to improve my skills daily. 🚀
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yenterick&show_icons=true&theme=tokyonight" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yenterick&layout=compact&theme=tokyonight&langs_count=8" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yenterick&show_icons=true&theme=tokyonight" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yenterick&layout=compact&theme=tokyonight&langs_count=8" height="140" />
 </p>
-
 
 ## 📫 Connect with me  
 
