@@ -7,7 +7,7 @@ I'm a technology, hardware, and software development enthusiast, currently a fou
 I'm confident and reliable, and I strive to improve my skills daily. 🚀
 </p>
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,15 +37,7 @@ I'm confident and reliable, and I strive to improve my skills daily. 🚀
   <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
 
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yenterick&show_icons=true&theme=tokyonight" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yenterick&layout=compact&theme=tokyonight&langs_count=8" height="140" />
-</p>
-
-## 📫 Connect with me  
+## Connect with me  
 
 <p align="center">
   <a href="mailto:yenterick@gmail.com">
