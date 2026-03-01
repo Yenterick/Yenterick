@@ -7,7 +7,7 @@ I'm a technology, hardware, and software development enthusiast, currently a fou
 I'm confident and reliable, and I strive to improve my skills daily. 🚀
 </p>
 
-### Tech Stack  
+## Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -39,7 +39,7 @@ I'm confident and reliable, and I strive to improve my skills daily. 🚀
   <img src="https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white" />
 </p>
 
-### Connect with me  
+## Connect with me  
 
 <p align="center">
   <a href="mailto:yenterick@gmail.com">
