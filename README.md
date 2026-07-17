@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="banner.png" width="700" />
+    <img src="banner_v2.png" width="700" />
 </p>
 
 <p align="center">
@@ -65,23 +65,33 @@ I enjoy understanding systems from the inside out, creating tools that are simpl
 <p align="center">
 
 <a href="mailto:yenterick@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail/A30E28" height="30">
+  <picture>
+    <img src="https://cdn.simpleicons.org/gmail/A30E28" height="30" >
+  </picture>
 </a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/juan-david-martínez-gonzález-7468ab415/">
-  <img src="linkedin.svg" height="30">
+  <picture>
+    <img src="linkedin.svg" height="30">
+  </picture>
 </a>&nbsp;&nbsp;
 
 <a href="https://discord.com/users/Yenterick">
-  <img src="https://cdn.simpleicons.org/discord/A30E28" height="30">
+  <picture>
+    <img src="https://cdn.simpleicons.org/discord/A30E28" height="30">
+  </picture>
 </a>&nbsp;&nbsp;
 
 <a href="https://github.com/Yenterick">
-  <img src="https://cdn.simpleicons.org/github/A30E28" height="30">
+  <picture>
+    <img src="https://cdn.simpleicons.org/github/A30E28" height="30">
+  </picture>
 </a>&nbsp;&nbsp;
 
 <a href="https://yenterick.vercel.app">
-  <img src="https://cdn.simpleicons.org/devbox/A30E28" height="30">
+  <picture>
+    <img src="https://cdn.simpleicons.org/devbox/A30E28" height="30">
+  </picture>
 </a>
 
 </p>
