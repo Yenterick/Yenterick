@@ -7,8 +7,7 @@ Software Developer · Systems Engineering Student
 </p>
 
 <p align="center">
-I build reliable software with a passion for backend development, infrastructure, and modern web technologies.<br>
-I enjoy understanding systems from the inside out, creating tools that are simple, maintainable, and built to last.
+Right now, I mainly focus on building modern and scalable web applications, but I'm passionate about all branches of development, so I'm looking to explore them to broaden my knowledge of systems and technology in general.<br><br>I love constantly learning new things, experimenting, and developing my skills. I also enjoy understanding how things work behind the scenes.
 </p>
 
 ---
@@ -59,6 +58,24 @@ I enjoy understanding systems from the inside out, creating tools that are simpl
   <img src="https://img.shields.io/badge/ESP32-0E0204?style=flat&logo=espressif&logoColor=FFFFFF" />
 
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Yenterick&custom_title=Yenterick's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=monokai" height="170">&nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Yenterick&langs_count=4&theme=monokai" height="170">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=Yenterick&repo=Yenterick/Nodeflix&show_owner=true&theme=monokai">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=Yenterick&repo=Yenterick/simulated-annealing&show_owner=true&theme=monokai">
+  <br>
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=Yenterick&repo=Yenterick/yentericks-junkyard&show_owner=true&theme=monokai">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=Yenterick&repo=Yenterick/yentericks-portfolio&show_owner=true&theme=monokai">
+</p>
+
 
 ---
 
