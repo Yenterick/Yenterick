@@ -69,11 +69,11 @@ Right now, I mainly focus on building modern and scalable web applications, but 
 ---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=Yenterick&repo=Yenterick/nodeflix&show_owner=true&theme=monokai">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=Yenterick&repo=Yenterick/simulated-annealing&show_owner=true&theme=monokai">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=Yenterick&repo=nodeflix&show_owner=true&theme=monokai">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=Yenterick&repo=simulated-annealing&show_owner=true&theme=monokai">
   <br>
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=Yenterick&repo=Yenterick/yentericks-junkyard&show_owner=true&theme=monokai">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=Yenterick&repo=Yenterick/yentericks-portfolio&show_owner=true&theme=monokai">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=Yenterick&repo=yentericks-junkyard&show_owner=true&theme=monokai">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=Yenterick&repo=yentericks-portfolio&show_owner=true&theme=monokai">
 </p>
 
 ---
