@@ -21,7 +21,7 @@ Right now, I mainly focus on building modern and scalable web applications, but 
   <img src="https://img.shields.io/badge/C-0E0204?style=flat&logo=c&logoColor=00599C" />
   <img src="https://img.shields.io/badge/Rust-0E0204?style=flat&logo=rust&logoColor=DEA584" />
   <img src="https://img.shields.io/badge/HTML5-0E0204?style=flat&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-0E0204?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/CSS3-0E0204?style=flat&logo=css&logoColor=1572B6" />
 
   <br>
 
