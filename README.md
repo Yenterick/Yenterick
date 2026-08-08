@@ -26,7 +26,9 @@ Right now, I mainly focus on building modern and scalable web applications, but 
   <br>
 
   <img src="https://img.shields.io/badge/Node.js-0E0204?style=flat&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Next.js-0E0204?style=flat&logo=next.js&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Express.js-0E0204?style=flat&logo=express&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/FastAPI-0E0204?style=flat&logo=fastapi&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/React-0E0204?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React%20Native-0E0204?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Electron-0E0204?style=flat&logo=electron&logoColor=47848F" />
